@@ -1,0 +1,11 @@
+C:\Users\nunoc\Info Tecnica\Programação\C#\programas\String_Encryptor\String_Encryptor\bin\Debug\String_Encryptor.exe.config
+C:\Users\nunoc\Info Tecnica\Programação\C#\programas\String_Encryptor\String_Encryptor\bin\Debug\String_Encryptor.exe
+C:\Users\nunoc\Info Tecnica\Programação\C#\programas\String_Encryptor\String_Encryptor\bin\Debug\String_Encryptor.pdb
+C:\Users\nunoc\Info Tecnica\Programação\C#\programas\String_Encryptor\String_Encryptor\obj\Debug\String_Encryptor.csproj.AssemblyReference.cache
+C:\Users\nunoc\Info Tecnica\Programação\C#\programas\String_Encryptor\String_Encryptor\obj\Debug\String_Encryptor.csproj.SuggestedBindingRedirects.cache
+C:\Users\nunoc\Info Tecnica\Programação\C#\programas\String_Encryptor\String_Encryptor\obj\Debug\String_Encryptor.Form1.resources
+C:\Users\nunoc\Info Tecnica\Programação\C#\programas\String_Encryptor\String_Encryptor\obj\Debug\String_Encryptor.Properties.Resources.resources
+C:\Users\nunoc\Info Tecnica\Programação\C#\programas\String_Encryptor\String_Encryptor\obj\Debug\String_Encryptor.csproj.GenerateResource.cache
+C:\Users\nunoc\Info Tecnica\Programação\C#\programas\String_Encryptor\String_Encryptor\obj\Debug\String_Encryptor.csproj.CoreCompileInputs.cache
+C:\Users\nunoc\Info Tecnica\Programação\C#\programas\String_Encryptor\String_Encryptor\obj\Debug\String_Encryptor.exe
+C:\Users\nunoc\Info Tecnica\Programação\C#\programas\String_Encryptor\String_Encryptor\obj\Debug\String_Encryptor.pdb
